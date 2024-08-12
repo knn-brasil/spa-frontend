@@ -10,7 +10,7 @@ Este desafio servirá como base para verificar seu conhecimento nas tecnologias 
 - *Você precisa efetuar login para acessar as imagens / configurações*
 
 #### Objetivos gerais
-Desenvolver uma página de visualização de pedidos, utilizando as seguintes linguagens/frameworks:
+Desenvolver uma página de Dashboard + Visualização de pedidos, utilizando as seguintes linguagens/frameworks:
 - TypeScript
 - Vue 2
 - Vuetify
